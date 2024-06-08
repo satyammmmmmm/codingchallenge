@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/satyammmmmmm/codingchallenge/tree/main/dnsresolver/resolver"
+	"github.com/satyammmmmmm/codingchallenge/tree/main/dnsResolver/dnsresolver/resolver"
 )
 
 func main() {

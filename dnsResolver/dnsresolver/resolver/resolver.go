@@ -6,7 +6,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/satyammmmmmm/codingchallenge/tree/main/dnsresolver/model"
+	"github.com/satyammmmmmm/codingchallenge/tree/main/dnsResolver/dnsresolver/model"
 )
 
 func encode(h *model.Header, c *model.Class) ([]byte, error) {
